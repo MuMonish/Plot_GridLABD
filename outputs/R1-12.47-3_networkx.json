@@ -1,0 +1,1499 @@
+{
+    "directed": false,
+    "graph": {},
+    "links": [
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_11",
+                "from": "R1_12_47_3_node_3",
+                "length": "387.401",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_node_4"
+            },
+            "ename": "R1_12_47_3_ol_1",
+            "source": "R1_12_47_3_node_3",
+            "target": "R1_12_47_3_node_4"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_12",
+                "from": "R1_12_47_3_node_4",
+                "length": "68.936",
+                "phases": "ACN",
+                "to": "R1_12_47_3_node_5"
+            },
+            "ename": "R1_12_47_3_ol_2",
+            "source": "R1_12_47_3_node_4",
+            "target": "R1_12_47_3_node_5"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_13",
+                "from": "R1_12_47_3_node_4",
+                "length": "157.766",
+                "phases": "CN",
+                "to": "R1_12_47_3_node_6"
+            },
+            "ename": "R1_12_47_3_ol_3",
+            "source": "R1_12_47_3_node_4",
+            "target": "R1_12_47_3_node_6"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_11",
+                "from": "R1_12_47_3_node_4",
+                "length": "139.494",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_node_7"
+            },
+            "ename": "R1_12_47_3_ol_4",
+            "source": "R1_12_47_3_node_4",
+            "target": "R1_12_47_3_node_7"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_11",
+                "from": "R1_12_47_3_node_7",
+                "length": "1260.546",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_node_8"
+            },
+            "ename": "R1_12_47_3_ol_5",
+            "source": "R1_12_47_3_node_7",
+            "target": "R1_12_47_3_node_8"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_11",
+                "from": "R1_12_47_3_node_8",
+                "length": "633.806",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_node_9"
+            },
+            "ename": "R1_12_47_3_ol_6",
+            "source": "R1_12_47_3_node_8",
+            "target": "R1_12_47_3_node_9"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_14",
+                "from": "R1_12_47_3_node_9",
+                "length": "237.576",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_node_10"
+            },
+            "ename": "R1_12_47_3_ol_7",
+            "source": "R1_12_47_3_node_9",
+            "target": "R1_12_47_3_node_10"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_15",
+                "from": "R1_12_47_3_node_8",
+                "length": "749.489",
+                "phases": "ACN",
+                "to": "R1_12_47_3_node_11"
+            },
+            "ename": "R1_12_47_3_ol_8",
+            "source": "R1_12_47_3_node_8",
+            "target": "R1_12_47_3_node_11"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_16",
+                "from": "R1_12_47_3_node_11",
+                "length": "122.880",
+                "phases": "CN",
+                "to": "R1_12_47_3_node_12"
+            },
+            "ename": "R1_12_47_3_ol_9",
+            "source": "R1_12_47_3_node_11",
+            "target": "R1_12_47_3_node_12"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_12",
+                "from": "R1_12_47_3_node_11",
+                "length": "245.725",
+                "phases": "ACN",
+                "to": "R1_12_47_3_node_13"
+            },
+            "ename": "R1_12_47_3_ol_10",
+            "source": "R1_12_47_3_node_11",
+            "target": "R1_12_47_3_node_13"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_16",
+                "from": "R1_12_47_3_node_13",
+                "length": "275.331",
+                "phases": "CN",
+                "to": "R1_12_47_3_node_14"
+            },
+            "ename": "R1_12_47_3_ol_11",
+            "source": "R1_12_47_3_node_13",
+            "target": "R1_12_47_3_node_14"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_11",
+                "from": "R1_12_47_3_node_8",
+                "length": "275.240",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_node_15"
+            },
+            "ename": "R1_12_47_3_ol_12",
+            "source": "R1_12_47_3_node_8",
+            "target": "R1_12_47_3_node_15"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_11",
+                "from": "R1_12_47_3_node_15",
+                "length": "63.897",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_node_16"
+            },
+            "ename": "R1_12_47_3_ol_13",
+            "source": "R1_12_47_3_node_15",
+            "target": "R1_12_47_3_node_16"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_17",
+                "from": "R1_12_47_3_node_17",
+                "length": "1499.769",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_node_18"
+            },
+            "ename": "R1_12_47_3_ol_14",
+            "source": "R1_12_47_3_node_17",
+            "target": "R1_12_47_3_node_18"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_17",
+                "from": "R1_12_47_3_node_18",
+                "length": "485.017",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_node_19"
+            },
+            "ename": "R1_12_47_3_ol_15",
+            "source": "R1_12_47_3_node_18",
+            "target": "R1_12_47_3_node_19"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_19",
+                "from": "R1_12_47_3_node_19",
+                "length": "275.614",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_node_21"
+            },
+            "ename": "R1_12_47_3_ol_16",
+            "source": "R1_12_47_3_node_19",
+            "target": "R1_12_47_3_node_21"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_20",
+                "from": "R1_12_47_3_node_21",
+                "length": "165.147",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_node_22"
+            },
+            "ename": "R1_12_47_3_ol_17",
+            "source": "R1_12_47_3_node_21",
+            "target": "R1_12_47_3_node_22"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_23",
+                "from": "R1_12_47_3_node_25",
+                "length": "497.233",
+                "phases": "BCN",
+                "to": "R1_12_47_3_node_26"
+            },
+            "ename": "R1_12_47_3_ol_18",
+            "source": "R1_12_47_3_node_25",
+            "target": "R1_12_47_3_node_26"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_20",
+                "from": "R1_12_47_3_node_18",
+                "length": "734.441",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_node_27"
+            },
+            "ename": "R1_12_47_3_ol_19",
+            "source": "R1_12_47_3_node_18",
+            "target": "R1_12_47_3_node_27"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_25",
+                "from": "R1_12_47_3_node_28",
+                "length": "111.674",
+                "phases": "AN",
+                "to": "R1_12_47_3_node_29"
+            },
+            "ename": "R1_12_47_3_ol_20",
+            "source": "R1_12_47_3_node_28",
+            "target": "R1_12_47_3_node_29"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_25",
+                "from": "R1_12_47_3_node_28",
+                "length": "174.016",
+                "phases": "AN",
+                "to": "R1_12_47_3_node_30"
+            },
+            "ename": "R1_12_47_3_ol_21",
+            "source": "R1_12_47_3_node_28",
+            "target": "R1_12_47_3_node_30"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_20",
+                "from": "R1_12_47_3_node_27",
+                "length": "229.262",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_node_31"
+            },
+            "ename": "R1_12_47_3_ol_22",
+            "source": "R1_12_47_3_node_27",
+            "target": "R1_12_47_3_node_31"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_11",
+                "from": "R1_12_47_3_node_31",
+                "length": "234.203",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_node_32"
+            },
+            "ename": "R1_12_47_3_ol_23",
+            "source": "R1_12_47_3_node_31",
+            "target": "R1_12_47_3_node_32"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_11",
+                "from": "R1_12_47_3_node_32",
+                "length": "693.760",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_node_34"
+            },
+            "ename": "R1_12_47_3_ol_24",
+            "source": "R1_12_47_3_node_32",
+            "target": "R1_12_47_3_node_34"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_20",
+                "from": "R1_12_47_3_node_35",
+                "length": "277.512",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_node_36"
+            },
+            "ename": "R1_12_47_3_ol_25",
+            "source": "R1_12_47_3_node_35",
+            "target": "R1_12_47_3_node_36"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_14",
+                "from": "R1_12_47_3_node_35",
+                "length": "428.598",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_node_41"
+            },
+            "ename": "R1_12_47_3_ol_26",
+            "source": "R1_12_47_3_node_35",
+            "target": "R1_12_47_3_node_41"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_17",
+                "from": "R1_12_47_3_node_41",
+                "length": "208.252",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_node_42"
+            },
+            "ename": "R1_12_47_3_ol_27",
+            "source": "R1_12_47_3_node_41",
+            "target": "R1_12_47_3_node_42"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_17",
+                "from": "R1_12_47_3_node_41",
+                "length": "288.056",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_node_43"
+            },
+            "ename": "R1_12_47_3_ol_28",
+            "source": "R1_12_47_3_node_41",
+            "target": "R1_12_47_3_node_43"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_24",
+                "from": "R1_12_47_3_node_43",
+                "length": "127.857",
+                "phases": "AN",
+                "to": "R1_12_47_3_node_44"
+            },
+            "ename": "R1_12_47_3_ol_29",
+            "source": "R1_12_47_3_node_43",
+            "target": "R1_12_47_3_node_44"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "overhead_line",
+            "edata": {
+                "configuration": "ID_20",
+                "from": "R1_12_47_3_node_43",
+                "length": "103.017",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_node_45"
+            },
+            "ename": "R1_12_47_3_ol_30",
+            "source": "R1_12_47_3_node_43",
+            "target": "R1_12_47_3_node_45"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "underground_line",
+            "edata": {
+                "configuration": "ID_10",
+                "from": "R1_12_47_3_node_2",
+                "length": "84.593",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_node_3"
+            },
+            "ename": "R1_12_47_3_ul_1",
+            "source": "R1_12_47_3_node_2",
+            "target": "R1_12_47_3_node_3"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "underground_line",
+            "edata": {
+                "configuration": "ID_22",
+                "from": "R1_12_47_3_node_23",
+                "length": "160.451",
+                "phases": "BN",
+                "to": "R1_12_47_3_node_24"
+            },
+            "ename": "R1_12_47_3_ul_2",
+            "source": "R1_12_47_3_node_23",
+            "target": "R1_12_47_3_node_24"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "underground_line",
+            "edata": {
+                "configuration": "ID_21",
+                "from": "R1_12_47_3_node_23",
+                "length": "190.827",
+                "phases": "BCN",
+                "to": "R1_12_47_3_node_25"
+            },
+            "ename": "R1_12_47_3_ul_3",
+            "source": "R1_12_47_3_node_23",
+            "target": "R1_12_47_3_node_25"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "underground_line",
+            "edata": {
+                "configuration": "ID_22",
+                "from": "R1_12_47_3_node_37",
+                "length": "165.500",
+                "phases": "BN",
+                "to": "R1_12_47_3_node_38"
+            },
+            "ename": "R1_12_47_3_ul_4",
+            "source": "R1_12_47_3_node_37",
+            "target": "R1_12_47_3_node_38"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "underground_line",
+            "edata": {
+                "configuration": "ID_22",
+                "from": "R1_12_47_3_node_37",
+                "length": "74.300",
+                "phases": "BN",
+                "to": "R1_12_47_3_node_39"
+            },
+            "ename": "R1_12_47_3_ul_5",
+            "source": "R1_12_47_3_node_37",
+            "target": "R1_12_47_3_node_39"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "underground_line",
+            "edata": {
+                "configuration": "ID_26",
+                "from": "R1_12_47_3_node_45",
+                "length": "202.409",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_node_46"
+            },
+            "ename": "R1_12_47_3_ul_6",
+            "source": "R1_12_47_3_node_45",
+            "target": "R1_12_47_3_node_46"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "underground_line",
+            "edata": {
+                "configuration": "ID_26",
+                "from": "R1_12_47_3_node_46",
+                "length": "131.003",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_node_47"
+            },
+            "ename": "R1_12_47_3_ul_7",
+            "source": "R1_12_47_3_node_46",
+            "target": "R1_12_47_3_node_47"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "underground_line",
+            "edata": {
+                "configuration": "ID_26",
+                "from": "R1_12_47_3_node_46",
+                "length": "258.143",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_node_48"
+            },
+            "ename": "R1_12_47_3_ul_8",
+            "source": "R1_12_47_3_node_46",
+            "target": "R1_12_47_3_node_48"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "regulator",
+            "edata": {
+                "configuration": "feeder_reg_cfg",
+                "from": "R1_12_47_3_node_53",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_meter_22"
+            },
+            "ename": "R1_12_47_3_reg_1",
+            "source": "R1_12_47_3_node_53",
+            "target": "R1_12_47_3_meter_22"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "fuse",
+            "edata": {
+                "current_limit": "40",
+                "from": "R1_12_47_3_node_19",
+                "mean_replacement_time": "3600",
+                "phases": "AN",
+                "status": "CLOSED",
+                "to": "R1_12_47_3_node_20"
+            },
+            "ename": "R1_12_47_3_fuse_1",
+            "source": "R1_12_47_3_node_19",
+            "target": "R1_12_47_3_node_20"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "fuse",
+            "edata": {
+                "current_limit": "40",
+                "from": "R1_12_47_3_node_21",
+                "mean_replacement_time": "3600",
+                "phases": "BCN",
+                "status": "CLOSED",
+                "to": "R1_12_47_3_node_23"
+            },
+            "ename": "R1_12_47_3_fuse_2",
+            "source": "R1_12_47_3_node_21",
+            "target": "R1_12_47_3_node_23"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "fuse",
+            "edata": {
+                "current_limit": "65",
+                "from": "R1_12_47_3_node_27",
+                "mean_replacement_time": "3600",
+                "phases": "AN",
+                "status": "CLOSED",
+                "to": "R1_12_47_3_node_28"
+            },
+            "ename": "R1_12_47_3_fuse_3",
+            "source": "R1_12_47_3_node_27",
+            "target": "R1_12_47_3_node_28"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "fuse",
+            "edata": {
+                "current_limit": "40",
+                "from": "R1_12_47_3_node_32",
+                "mean_replacement_time": "3600",
+                "phases": "AN",
+                "status": "CLOSED",
+                "to": "R1_12_47_3_node_33"
+            },
+            "ename": "R1_12_47_3_fuse_4",
+            "source": "R1_12_47_3_node_32",
+            "target": "R1_12_47_3_node_33"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "fuse",
+            "edata": {
+                "current_limit": "100",
+                "from": "R1_12_47_3_node_32",
+                "mean_replacement_time": "3600",
+                "phases": "ABCN",
+                "status": "CLOSED",
+                "to": "R1_12_47_3_node_35"
+            },
+            "ename": "R1_12_47_3_fuse_5",
+            "source": "R1_12_47_3_node_32",
+            "target": "R1_12_47_3_node_35"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "fuse",
+            "edata": {
+                "current_limit": "40",
+                "from": "R1_12_47_3_node_36",
+                "mean_replacement_time": "3600",
+                "phases": "BN",
+                "status": "CLOSED",
+                "to": "R1_12_47_3_node_37"
+            },
+            "ename": "R1_12_47_3_fuse_6",
+            "source": "R1_12_47_3_node_36",
+            "target": "R1_12_47_3_node_37"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "fuse",
+            "edata": {
+                "current_limit": "65",
+                "from": "R1_12_47_3_node_36",
+                "mean_replacement_time": "3600",
+                "phases": "BN",
+                "status": "CLOSED",
+                "to": "R1_12_47_3_node_40"
+            },
+            "ename": "R1_12_47_3_fuse_7",
+            "source": "R1_12_47_3_node_36",
+            "target": "R1_12_47_3_node_40"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "switch",
+            "edata": {
+                "from": "R1_12_47_3_node_52",
+                "phases": "ABCN",
+                "status": "CLOSED",
+                "to": "R1_12_47_3_node_2"
+            },
+            "ename": "R1_12_47_3_switch_1",
+            "source": "R1_12_47_3_node_52",
+            "target": "R1_12_47_3_node_2"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "switch",
+            "edata": {
+                "from": "R1_12_47_3_node_9",
+                "phases": "ABCN",
+                "status": "CLOSED",
+                "to": "R1_12_47_3_node_51"
+            },
+            "ename": "R1_12_47_3_switch_2",
+            "source": "R1_12_47_3_node_9",
+            "target": "R1_12_47_3_node_51"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "switch",
+            "edata": {
+                "from": "R1_12_47_3_node_15",
+                "phases": "ABCN",
+                "status": "CLOSED",
+                "to": "R1_12_47_3_node_49"
+            },
+            "ename": "R1_12_47_3_switch_3",
+            "source": "R1_12_47_3_node_15",
+            "target": "R1_12_47_3_node_49"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "switch",
+            "edata": {
+                "from": "R1_12_47_3_node_15",
+                "phases": "ABCN",
+                "status": "CLOSED",
+                "to": "R1_12_47_3_node_17"
+            },
+            "ename": "R1_12_47_3_switch_4",
+            "source": "R1_12_47_3_node_15",
+            "target": "R1_12_47_3_node_17"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "switch",
+            "edata": {
+                "from": "R1_12_47_3_node_34",
+                "phases": "ABCN",
+                "status": "CLOSED",
+                "to": "R1_12_47_3_node_1"
+            },
+            "ename": "R1_12_47_3_switch_5",
+            "source": "R1_12_47_3_node_34",
+            "target": "R1_12_47_3_node_1"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "switch",
+            "edata": {
+                "from": "R1_12_47_3_node_34",
+                "phases": "ABCN",
+                "status": "CLOSED",
+                "to": "R1_12_47_3_node_50"
+            },
+            "ename": "R1_12_47_3_switch_6",
+            "source": "R1_12_47_3_node_34",
+            "target": "R1_12_47_3_node_50"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "fuse",
+            "edata": {
+                "current_limit": "40",
+                "from": "R1_12_47_3_node_19",
+                "mean_replacement_time": "3600",
+                "phases": "AN",
+                "status": "CLOSED",
+                "to": "R1_12_47_3_node_20"
+            },
+            "ename": "R1_12_47_3_fuse_1",
+            "source": "R1_12_47_3_node_19",
+            "target": "R1_12_47_3_node_20"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "fuse",
+            "edata": {
+                "current_limit": "40",
+                "from": "R1_12_47_3_node_21",
+                "mean_replacement_time": "3600",
+                "phases": "BCN",
+                "status": "CLOSED",
+                "to": "R1_12_47_3_node_23"
+            },
+            "ename": "R1_12_47_3_fuse_2",
+            "source": "R1_12_47_3_node_21",
+            "target": "R1_12_47_3_node_23"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "fuse",
+            "edata": {
+                "current_limit": "65",
+                "from": "R1_12_47_3_node_27",
+                "mean_replacement_time": "3600",
+                "phases": "AN",
+                "status": "CLOSED",
+                "to": "R1_12_47_3_node_28"
+            },
+            "ename": "R1_12_47_3_fuse_3",
+            "source": "R1_12_47_3_node_27",
+            "target": "R1_12_47_3_node_28"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "fuse",
+            "edata": {
+                "current_limit": "40",
+                "from": "R1_12_47_3_node_32",
+                "mean_replacement_time": "3600",
+                "phases": "AN",
+                "status": "CLOSED",
+                "to": "R1_12_47_3_node_33"
+            },
+            "ename": "R1_12_47_3_fuse_4",
+            "source": "R1_12_47_3_node_32",
+            "target": "R1_12_47_3_node_33"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "fuse",
+            "edata": {
+                "current_limit": "100",
+                "from": "R1_12_47_3_node_32",
+                "mean_replacement_time": "3600",
+                "phases": "ABCN",
+                "status": "CLOSED",
+                "to": "R1_12_47_3_node_35"
+            },
+            "ename": "R1_12_47_3_fuse_5",
+            "source": "R1_12_47_3_node_32",
+            "target": "R1_12_47_3_node_35"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "fuse",
+            "edata": {
+                "current_limit": "40",
+                "from": "R1_12_47_3_node_36",
+                "mean_replacement_time": "3600",
+                "phases": "BN",
+                "status": "CLOSED",
+                "to": "R1_12_47_3_node_37"
+            },
+            "ename": "R1_12_47_3_fuse_6",
+            "source": "R1_12_47_3_node_36",
+            "target": "R1_12_47_3_node_37"
+        },
+        {
+            "Transformer": "False",
+            "eclass": "fuse",
+            "edata": {
+                "current_limit": "65",
+                "from": "R1_12_47_3_node_36",
+                "mean_replacement_time": "3600",
+                "phases": "BN",
+                "status": "CLOSED",
+                "to": "R1_12_47_3_node_40"
+            },
+            "ename": "R1_12_47_3_fuse_7",
+            "source": "R1_12_47_3_node_36",
+            "target": "R1_12_47_3_node_40"
+        },
+        {
+            "Transformer": "True",
+            "eclass": "transformer",
+            "edata": {
+                "configuration": "XF1_POLETOP_BS_250",
+                "from": "R1_12_47_3_node_40",
+                "phases": "BS",
+                "to": "R1_12_47_3_tn_1"
+            },
+            "ename": "R1_12_47_3_xfmr_1",
+            "source": "R1_12_47_3_node_40",
+            "target": "R1_12_47_3_tn_1"
+        },
+        {
+            "Transformer": "True",
+            "eclass": "transformer",
+            "edata": {
+                "configuration": "XF1_PADMOUNT_CN_75",
+                "from": "R1_12_47_3_node_6",
+                "phases": "CN",
+                "to": "R1_12_47_3_meter_1"
+            },
+            "ename": "R1_12_47_3_xfmr_2",
+            "source": "R1_12_47_3_node_6",
+            "target": "R1_12_47_3_meter_1"
+        },
+        {
+            "Transformer": "True",
+            "eclass": "transformer",
+            "edata": {
+                "configuration": "XF3_PADMOUNT_ABCN_75",
+                "from": "R1_12_47_3_node_10",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_meter_2"
+            },
+            "ename": "R1_12_47_3_xfmr_3",
+            "source": "R1_12_47_3_node_10",
+            "target": "R1_12_47_3_meter_2"
+        },
+        {
+            "Transformer": "True",
+            "eclass": "transformer",
+            "edata": {
+                "configuration": "XF2_POLETOP_ACN_45",
+                "from": "R1_12_47_3_node_11",
+                "phases": "ACN",
+                "to": "R1_12_47_3_meter_3"
+            },
+            "ename": "R1_12_47_3_xfmr_4",
+            "source": "R1_12_47_3_node_11",
+            "target": "R1_12_47_3_meter_3"
+        },
+        {
+            "Transformer": "True",
+            "eclass": "transformer",
+            "edata": {
+                "configuration": "XF1_POLETOP_CN_75",
+                "from": "R1_12_47_3_node_12",
+                "phases": "CN",
+                "to": "R1_12_47_3_meter_4"
+            },
+            "ename": "R1_12_47_3_xfmr_5",
+            "source": "R1_12_47_3_node_12",
+            "target": "R1_12_47_3_meter_4"
+        },
+        {
+            "Transformer": "True",
+            "eclass": "transformer",
+            "edata": {
+                "configuration": "XF1_POLETOP_CN_75",
+                "from": "R1_12_47_3_node_14",
+                "phases": "CN",
+                "to": "R1_12_47_3_meter_5"
+            },
+            "ename": "R1_12_47_3_xfmr_6",
+            "source": "R1_12_47_3_node_14",
+            "target": "R1_12_47_3_meter_5"
+        },
+        {
+            "Transformer": "True",
+            "eclass": "transformer",
+            "edata": {
+                "configuration": "XF3_POLETOP_ABCN_112p5",
+                "from": "R1_12_47_3_node_18",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_meter_6"
+            },
+            "ename": "R1_12_47_3_xfmr_7",
+            "source": "R1_12_47_3_node_18",
+            "target": "R1_12_47_3_meter_6"
+        },
+        {
+            "Transformer": "True",
+            "eclass": "transformer",
+            "edata": {
+                "configuration": "XF1_POLETOP_AN_75",
+                "from": "R1_12_47_3_node_20",
+                "phases": "AN",
+                "to": "R1_12_47_3_meter_7"
+            },
+            "ename": "R1_12_47_3_xfmr_8",
+            "source": "R1_12_47_3_node_20",
+            "target": "R1_12_47_3_meter_7"
+        },
+        {
+            "Transformer": "True",
+            "eclass": "transformer",
+            "edata": {
+                "configuration": "XF3_POLETOP_ABCN_112p5",
+                "from": "R1_12_47_3_node_22",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_meter_8"
+            },
+            "ename": "R1_12_47_3_xfmr_9",
+            "source": "R1_12_47_3_node_22",
+            "target": "R1_12_47_3_meter_8"
+        },
+        {
+            "Transformer": "True",
+            "eclass": "transformer",
+            "edata": {
+                "configuration": "XF1_POLETOP_BN_37p5",
+                "from": "R1_12_47_3_node_24",
+                "phases": "BN",
+                "to": "R1_12_47_3_meter_9"
+            },
+            "ename": "R1_12_47_3_xfmr_10",
+            "source": "R1_12_47_3_node_24",
+            "target": "R1_12_47_3_meter_9"
+        },
+        {
+            "Transformer": "True",
+            "eclass": "transformer",
+            "edata": {
+                "configuration": "XF3_POLETOP_ABCN_112p5",
+                "from": "R1_12_47_3_node_27",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_meter_10"
+            },
+            "ename": "R1_12_47_3_xfmr_11",
+            "source": "R1_12_47_3_node_27",
+            "target": "R1_12_47_3_meter_10"
+        },
+        {
+            "Transformer": "True",
+            "eclass": "transformer",
+            "edata": {
+                "configuration": "XF1_POLETOP_AN_167",
+                "from": "R1_12_47_3_node_28",
+                "phases": "AN",
+                "to": "R1_12_47_3_meter_11"
+            },
+            "ename": "R1_12_47_3_xfmr_12",
+            "source": "R1_12_47_3_node_28",
+            "target": "R1_12_47_3_meter_11"
+        },
+        {
+            "Transformer": "True",
+            "eclass": "transformer",
+            "edata": {
+                "configuration": "XF1_POLETOP_AN_37p5",
+                "from": "R1_12_47_3_node_29",
+                "phases": "AN",
+                "to": "R1_12_47_3_meter_12"
+            },
+            "ename": "R1_12_47_3_xfmr_13",
+            "source": "R1_12_47_3_node_29",
+            "target": "R1_12_47_3_meter_12"
+        },
+        {
+            "Transformer": "True",
+            "eclass": "transformer",
+            "edata": {
+                "configuration": "XF1_POLETOP_AN_37p5",
+                "from": "R1_12_47_3_node_30",
+                "phases": "AN",
+                "to": "R1_12_47_3_meter_13"
+            },
+            "ename": "R1_12_47_3_xfmr_14",
+            "source": "R1_12_47_3_node_30",
+            "target": "R1_12_47_3_meter_13"
+        },
+        {
+            "Transformer": "True",
+            "eclass": "transformer",
+            "edata": {
+                "configuration": "XF1_POLETOP_AN_37p5",
+                "from": "R1_12_47_3_node_33",
+                "phases": "AN",
+                "to": "R1_12_47_3_meter_14"
+            },
+            "ename": "R1_12_47_3_xfmr_15",
+            "source": "R1_12_47_3_node_33",
+            "target": "R1_12_47_3_meter_14"
+        },
+        {
+            "Transformer": "True",
+            "eclass": "transformer",
+            "edata": {
+                "configuration": "XF1_POLETOP_BN_25",
+                "from": "R1_12_47_3_node_37",
+                "phases": "BN",
+                "to": "R1_12_47_3_meter_15"
+            },
+            "ename": "R1_12_47_3_xfmr_16",
+            "source": "R1_12_47_3_node_37",
+            "target": "R1_12_47_3_meter_15"
+        },
+        {
+            "Transformer": "True",
+            "eclass": "transformer",
+            "edata": {
+                "configuration": "XF1_POLETOP_BN_100",
+                "from": "R1_12_47_3_node_38",
+                "phases": "BN",
+                "to": "R1_12_47_3_meter_16"
+            },
+            "ename": "R1_12_47_3_xfmr_17",
+            "source": "R1_12_47_3_node_38",
+            "target": "R1_12_47_3_meter_16"
+        },
+        {
+            "Transformer": "True",
+            "eclass": "transformer",
+            "edata": {
+                "configuration": "XF1_POLETOP_BN_25",
+                "from": "R1_12_47_3_node_39",
+                "phases": "BN",
+                "to": "R1_12_47_3_meter_17"
+            },
+            "ename": "R1_12_47_3_xfmr_18",
+            "source": "R1_12_47_3_node_39",
+            "target": "R1_12_47_3_meter_17"
+        },
+        {
+            "Transformer": "True",
+            "eclass": "transformer",
+            "edata": {
+                "configuration": "XF3_POLETOP_ABCN_225",
+                "from": "R1_12_47_3_node_42",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_meter_18"
+            },
+            "ename": "R1_12_47_3_xfmr_19",
+            "source": "R1_12_47_3_node_42",
+            "target": "R1_12_47_3_meter_18"
+        },
+        {
+            "Transformer": "True",
+            "eclass": "transformer",
+            "edata": {
+                "configuration": "XF1_POLETOP_AN_37p5",
+                "from": "R1_12_47_3_node_44",
+                "phases": "AN",
+                "to": "R1_12_47_3_meter_19"
+            },
+            "ename": "R1_12_47_3_xfmr_20",
+            "source": "R1_12_47_3_node_44",
+            "target": "R1_12_47_3_meter_19"
+        },
+        {
+            "Transformer": "True",
+            "eclass": "transformer",
+            "edata": {
+                "configuration": "XF3_POLETOP_ABCN_150",
+                "from": "R1_12_47_3_node_47",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_meter_20"
+            },
+            "ename": "R1_12_47_3_xfmr_21",
+            "source": "R1_12_47_3_node_47",
+            "target": "R1_12_47_3_meter_20"
+        },
+        {
+            "Transformer": "True",
+            "eclass": "transformer",
+            "edata": {
+                "configuration": "XF3_POLETOP_ABCN_112p5",
+                "from": "R1_12_47_3_node_48",
+                "phases": "ABCN",
+                "to": "R1_12_47_3_meter_21"
+            },
+            "ename": "R1_12_47_3_xfmr_22",
+            "source": "R1_12_47_3_node_48",
+            "target": "R1_12_47_3_meter_21"
+        }
+    ],
+    "multigraph": true,
+    "nodes": [
+        {
+            "id": "R1_12_47_3_node_1",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_2",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_3",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_4",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_5",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_6",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_7",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_8",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_9",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_10",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_11",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_12",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_13",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_14",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_15",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_16",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_17",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_18",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_19",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_20",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_21",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_22",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_23",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_24",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_25",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_26",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_27",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_28",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_29",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_30",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_31",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_32",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_33",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_34",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_35",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_36",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_37",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_38",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_39",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_40",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_41",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_42",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_43",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_44",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_45",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_46",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_47",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_48",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_49",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_50",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_51",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_52",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        },
+        {
+            "id": "R1_12_47_3_node_53",
+            "nclass": "node",
+            "ndata": {
+                "voltage": "7200.0"
+            }
+        }
+    ]
+}
